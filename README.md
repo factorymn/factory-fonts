@@ -11,8 +11,8 @@ bem-font
 ({
     mustDeps : [
         { block : 'font', elem : 'grands' },
-        { block : 'font', elem : 'reformagrotesk', mods : { face : ['medium']} },
-        { block : 'font', elem : 'futurafuturis', mods : { face : ['regular', 'bold', 'light']} }
+        { block : 'font', elem : 'futurafuturis', mods : { face : 'light'} },
+        { block : 'font', elem : 'pt-sans', mods : { face : ['regular', 'bold', 'italic']} }
     ],
     shouldDeps : []
 })
@@ -22,3 +22,4 @@ bem-font
 ## Fonts
 
 - [Grands](http://grawl.github.io/Grands/) (social icons)
+- PT Sans [Альтернатива](http://www.google.com/fonts)
