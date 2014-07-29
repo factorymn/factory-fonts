@@ -7,9 +7,10 @@ branches:
 before_script:
 - chmod +x ./utils/update-gh-pages.sh
 after_success:
-  - git config credential.helper "store --file=.git/credentials"
-  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
-  - ./utils/update-gh-pages.sh
+- git config credential.helper "store --file=.git/credentials"
+- echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+- ./utils/update-gh-pages.sh
 env:
   global:
   - GH_REF: github.com/factorymn/bem-font.git
+  - secure: Ith3iV+ibP1+g0pur3xldvo1ank/+1GbRMec54hbjjCqYasdF2Rdj7lypVZWESxFwO1LEDwtnv3iq7lAtETKA7eF/hJIoeXO5Kp0qZJY9HLrbDR0co7AZvWGSwUenJcmIhL4B37PUqfygxoyw3qW+iPgQQzKqu6zFwSxMqFu1vU=
