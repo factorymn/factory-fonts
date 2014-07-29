@@ -6,7 +6,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 
     bem make -m clean && YENV=production bem make
 
-    git clone -b gh-pages https://${GH_TOKEN}@github.com/factorymn/bem-font.git gh-pages
+    git clone -b gh-pages https://${GH_TOKEN}@github.com/voischev/bem-font.git gh-pages
 
     cd gh-pages
 
