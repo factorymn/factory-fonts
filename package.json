@@ -1,11 +1,11 @@
 {
   "author": "Ivan Voischev",
-  "name": "bem-social",
+  "name": "bem-font",
   "version": "0.0.1",
-  "description": "BEM Social Components Library",
+  "description": "BEM Fonts Library",
   "repository": {
     "type": "git",
-    "url": "/"
+    "url": "https://github.com/voischev/bem-font"
   },
   "keywords": [
     "bem"

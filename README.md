@@ -1,4 +1,4 @@
-bem-font
+bem-font (dev) [![Build Status](https://travis-ci.org/voischev/bem-font.svg?branch=master)](https://travis-ci.org/voischev/bem-font)
 ========
 
 ## Использование в bem проектах
