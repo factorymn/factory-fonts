@@ -1,9 +1,9 @@
 # Библиотека шрифтов Мануфактуры для BEM-TOOLS
 
 ## Используемые форматы ##
-* TrueType (Android Browser 2.2-4.3)
 * WOFF
 * WOFF2 (New WebKit)
+* TrueType (Android Browser 2.2-4.3)
 * EOT Compressed (IE<9)
 
 Формат SVG не используем, в связи с окончанием поддержки WebKit и общим положением дел:
