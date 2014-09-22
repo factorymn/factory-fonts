@@ -14,7 +14,8 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "bem-environ": "~1.4.0"
+    "bem-environ": "~1.4.0",
+    "csscomb": "^3.0.2"
   },
   "devDependencies": {
     "bem": "0.8.1",
