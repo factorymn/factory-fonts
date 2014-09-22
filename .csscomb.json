@@ -26,18 +26,19 @@
     "sort-order": [
         [
             "font",
-            "font-family",
-            "font-size",
-            "font-weight",
-            "font-style",
-            "font-variant",
-            "font-size-adjust",
-            "font-stretch",
             "font-effect",
             "font-emphasize",
             "font-emphasize-position",
             "font-emphasize-style",
+            "font-family",
+            "src",
+            "font-size",
+            "font-size-adjust",
             "font-smooth",
+            "font-stretch",
+            "font-style",
+            "font-variant",
+            "font-weight",
             "line-height"
         ],
         [
