@@ -1,14 +1,11 @@
 {
-  "name": "bem-font",
+  "name": "factory-fonts",
   "version": "0.0.1",
-  "description": "BEM Fonts Library",
+  "description": "Manufactura Fonts Library",
   "bugs": "",
   "ignore": [
     ".bem/cache",
     "node_modules",
     "libs"
-  ],
-  "dependencies": {
-    "bem-components": "git://github.com/bem/bem-components#v2"
-  }
+  ]
 }
