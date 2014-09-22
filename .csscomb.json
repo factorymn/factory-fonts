@@ -9,7 +9,6 @@
         "*.tests/**"
     ],
     "always-semicolon": true,
-    "block-indent": 4,
     "colon-space": [0, 1],
     "color-case": "lower",
     "color-shorthand": true,
