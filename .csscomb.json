@@ -17,7 +17,7 @@
     "element-case": "lower",
     "eof-newline": true,
     "leading-zero": true,
-    "quotes": "double",
+    "quotes": "single",
     "remove-empty-rulesets": true,
     "rule-indent": 4,
     "stick-brace": "\n",
