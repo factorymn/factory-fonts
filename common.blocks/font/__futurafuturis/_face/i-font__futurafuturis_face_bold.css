@@ -5,6 +5,6 @@
          url('futurafuturis-bold.woff') format('woff'),
          url('futurafuturis-bold.ttf') format('truetype'),
          url('futurafuturis-bold.svg#futurafuturiscbold') format('svg');
-    font-weight: bold;
     font-style: normal;
+    font-weight: bold;
 }

@@ -5,6 +5,6 @@
          url('circe-regular_extra_light.woff') format('woff'),
          url('circe-regular_extra_light.ttf') format('truetype'),
          url('circe-regular_extra_light.svg#Circe') format('svg');
-    font-weight: 200;
     font-style: normal;
+    font-weight: 200;
 }

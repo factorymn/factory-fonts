@@ -5,6 +5,6 @@
          url('klementina.woff') format('woff'),
          url('klementina.ttf') format('truetype'),
          url('klementina.svg#klementina') format('svg');
-    font-weight: normal;
     font-style: normal;
+    font-weight: normal;
 }

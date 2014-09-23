@@ -5,7 +5,6 @@
          url('ArnoPro-LightItalicDisplay.woff') format('woff'),
          url('ArnoPro-LightItalicDisplay.ttf') format('truetype'),
          url('ArnoPro-LightItalicDisplay.svg#ArnoPro-LightItalicDisplay') format('svg');
-    font-weight: normal;
     font-style: normal;
-
+    font-weight: normal;
 }

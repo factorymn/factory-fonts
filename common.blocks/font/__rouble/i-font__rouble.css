@@ -10,6 +10,8 @@
 .i-font__rouble
 {
     font-family: 'Rouble';
-    text-transform: uppercase;
+
     display: inline;
+
+    text-transform: uppercase;
 }

@@ -5,7 +5,6 @@
          url('reformagrotesk-medium.woff') format('woff'),
          url('reformagrotesk-medium.ttf') format('truetype'),
          url('reformagrotesk-medium.svg#reformagroteskmediumcregular') format('svg');
-    font-weight: 500;
     font-style: normal;
-
+    font-weight: 500;
 }

@@ -5,6 +5,6 @@
          url('circe-regular.woff') format('woff'),
          url('circe-regular.ttf') format('truetype'),
          url('circe-regular.svg#Circe') format('svg');
-    font-weight: normal;
     font-style: normal;
+    font-weight: normal;
 }
