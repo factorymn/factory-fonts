@@ -29,7 +29,7 @@
     "jshint-groups": "0.6.0"
   },
   "scripts": {
-    "deps": "bower-npm-install",
+    "deps": "bower-npm-install --non-interactive",
     "build": "npm run deps",
     "lint": "jshint-groups && jscs ."
   },
